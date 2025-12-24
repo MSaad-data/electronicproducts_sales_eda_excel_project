@@ -1,12 +1,12 @@
-# usacar_sales_eda_excel_project
-This project analyzes a vehicle sales dataset using Excel. I cleaned the data, calculated total quantity and revenue per product, city, and month. Visualizations show which products are ordered the most, which products generate the most revenue, which cities are most profitable, and which months have the highest sales.
+# electronicproducts_sales_eda_excel_project
+This project analyzes the e-commerce Electronic Products dataset using Excel. I cleaned the data, calculated the total quantity and revenue per product, city, and month. Visualizations show which products are ordered the most, which products generate the most revenue, which cities are most profitable, and which months have the highest sales.
 
 ## Data_set Used
  <a href="https://github.com/MSaad-data/usacar_sales_eda_excel_project/blob/main/Sales%20Dataset%20of%20Ecommerce%20(Electronic%20Products).xlsx">Dataset view</a>
 
 ## Introduction
 
-For this project, I worked with a Sales Dataset of Ecommerce Electronic Products. The dataset contains hundreds of thousands of records of purchases from an electronics store, including information about the product, quantity sold, price, order date, and purchase location. It was created to help understand sales patterns and improve overall sales of electronic products.
+For this project, I worked with a Sales Dataset of Ecommerce Electronic Products. The dataset contains hundreds of thousands of records of purchases from an electronics store, including information about the product, quantity sold, price, order date, and purchase location. It was created to help understand sales patterns and improve the overall sales of electronic products.
 
 The initial columns in the dataset were:
 
